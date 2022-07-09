@@ -1,14 +1,22 @@
-# portfolio
+# Portfólio
 
 Meu portfólio
 
-## Tarefas
+## Tecnologias
 
-O controle das tarefas desse projeto será realizado no Github
+:black_small_square: HTML 5 <br>
+:black_small_square: CSS 3 <br>
+:black_small_square: JavaScript <br>
+:black_small_square: PHP 7
 
-## Icones
+## Preview Desktop: Tema Claro
+<img src="assets/img/DesktopClaro.jpg">
 
-:package: nova funcionalidade
-:up: atualização
-:beetle: correção bug
-:checkered_flag: release
+## Preview Desktop: Tema Escuro
+<img src="assets/img/DesktopEscuro.jpg">
+
+## Preview Mobile: Tema Claro
+<img src="assets/img/MobileClaro.jpg"
+
+## Preview Mobile: Tema Escuro
+<img src="assets/img/MobileEscuro.jpg"
