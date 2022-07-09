@@ -16,7 +16,7 @@ Meu portfólio
 <img src="assets/img/DesktopEscuro.jpg">
 
 ## Preview Mobile: Tema Claro
-<img src="assets/img/MobileClaro.jpg"
+<img src="assets/img/MobileClaro.jpg">
 
 ## Preview Mobile: Tema Escuro
-<img src="assets/img/MobileEscuro.jpg"
+<img src="assets/img/MobileEscuro.jpg">
