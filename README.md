@@ -10,13 +10,13 @@ Meu portfólio
 :black_small_square: PHP 7
 
 ## Preview Desktop: Tema Claro
-<img src="assets/img/DesktopClaro.jpg">
+<img src="assets/img/DesktopClaro.png">
 
 ## Preview Desktop: Tema Escuro
-<img src="assets/img/DesktopEscuro.jpg">
+<img src="assets/img/DesktopEscuro.png">
 
 ## Preview Mobile: Tema Claro
-<img src="assets/img/MobileClaro.jpg">
+<img src="assets/img/MobileClaro.png">
 
 ## Preview Mobile: Tema Escuro
-<img src="assets/img/MobileEscuro.jpg">
+<img src="assets/img/MobileEscuro.png">
